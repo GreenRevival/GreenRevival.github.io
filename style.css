@@ -13,10 +13,12 @@ home {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: left;
+    text-align-last:auto;
 }
 
 contact {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align: center;
+    text-align-last: auto;
 }
